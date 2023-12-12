@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proy-exfitec/static/css/main.abd7414f.css",
+    "main.js": "/proy-exfitec/static/js/main.2e11eda4.js",
+    "static/js/787.f134d33c.chunk.js": "/proy-exfitec/static/js/787.f134d33c.chunk.js",
+    "static/media/logo.svg": "/proy-exfitec/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proy-exfitec/index.html",
+    "main.abd7414f.css.map": "/proy-exfitec/static/css/main.abd7414f.css.map",
+    "main.2e11eda4.js.map": "/proy-exfitec/static/js/main.2e11eda4.js.map",
+    "787.f134d33c.chunk.js.map": "/proy-exfitec/static/js/787.f134d33c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd7414f.css",
+    "static/js/main.2e11eda4.js"
+  ]
+}
